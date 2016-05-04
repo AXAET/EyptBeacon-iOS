@@ -1,0 +1,6 @@
+framework module AXAEypt {
+  umbrella header "AXAEypt.h"
+
+  export *
+  module * { export * }
+}
